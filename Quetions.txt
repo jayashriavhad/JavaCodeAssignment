@@ -1,0 +1,4 @@
+1)WAP take 2 string as imput from user and find if first String exits in another.
+2)Take a String from user and reverse it and also convert the same String to uppercase.
+3)WAP create 2 interfaces "Printable" and "Calculate" and use these 2 interfaces in 2 classes one will calculate square and another will calculate cube.
+4)WAP create 2 interfaces "Printable" and "Calculate" and use these 2 interfaces in 2 classes one will calculate square and another will calculate cube.
